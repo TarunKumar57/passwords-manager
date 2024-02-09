@@ -1,0 +1,79 @@
+li {
+  border: 1px solid #9ba9eb;
+  width: max-content;
+  margin: 9px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 300px;
+  border-radius: 5px;
+}
+.text-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 200px;
+}
+.first-letter {
+  border-radius: 25px;
+  height: 45px;
+  width: 45px;
+  text-align: center;
+  font-size: 26px;
+}
+.para-container {
+  width: 123px;
+}
+.website {
+  margin-top: 5px;
+  margin-bottom: 3px;
+  font-size: small;
+}
+.user-name {
+  margin-top: 3px;
+  margin-bottom: 3px;
+  font-size: small;
+}
+.password {
+  margin-top: 3px;
+  margin-bottom: 3px;
+  font-size: small;
+}
+.star-img {
+  height: 12px;
+  margin-top: 3px;
+}
+.delete-btn {
+  border-width: 0px;
+  background-color: transparent;
+}
+.delete-img {
+  height: 25px;
+}
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
